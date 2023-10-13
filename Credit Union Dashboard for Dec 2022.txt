@@ -1,0 +1,32 @@
+The project outcomes for your "Credit Union Dashboard" built on Microsoft Power BI:
+
+Credit Union Dashboard:
+
+In this project, I created a dashboard using Microsoft Power BI. Power BI is a powerful data visualization tool that allows users to transform data into insightful visuals, facilitating data-driven decision-making.
+Data Collection from NCUA:
+
+You collected data from the National Credit Union Administration (NCUA), specifically the call report data for quarterly reporting throughout the year of December 2022. The NCUA is a federal agency responsible for regulating and supervising credit unions.
+Dashboard Design:
+
+The core focus of my project was to design a dashboard that provided insights and data visualizations related to credit unions. This dashboard likely contained various charts, graphs, and tables to represent different aspects of the data.
+Key Metrics and Visualizations:
+
+My dashboard likely included key metrics and visualizations, such as:
+"Sum of Members by Credit Unions": Showing the total number of members across different credit unions.
+"Net Worth by Credit Unions": Illustrating the financial strength of credit unions.
+"Sum of Assets": Displaying the total assets held by credit unions.
+Potentially many more relevant metrics and visualizations that offer a comprehensive view of credit union data.
+Machine Learning for Growth Prediction:
+
+A notable aspect of my project is the use of machine learning to predict the growth of credit union data.
+By incorporating machine learning, you likely built predictive models that can forecast future trends in the data. Microsoft Azure was utilized for this purpose, indicating cloud-based machine learning capabilities.
+Predictive Analysis:
+
+Machine learning models could have been used to analyze historical data and make predictions about the future. For instance, these models might forecast trends in the number of members, net worth, or assets of credit unions.
+Data-Driven Decision-Making:
+
+The project's overarching goal was to enable data-driven decision-making within the context of credit unions. By providing a comprehensive dashboard and predictive insights, the project aimed to assist credit union stakeholders in making informed choices and strategic plans.
+December 2022 Data:
+
+The focus on data from December 2022 indicates that my project is designed to offer insights into the specific performance of credit unions for that period, enabling retrospective analysis and future planning.
+In summary, my project involved creating a comprehensive dashboard for credit unions using Microsoft Power BI. It included data collection from a reliable source (NCUA), designing visualizations for key metrics, and implementing machine learning for predictive analysis. The project's goal was to empower stakeholders in the credit union sector with data-driven insights to support their decision-making and strategic planning efforts.
